@@ -18,7 +18,7 @@ Ensure your system meets the [Laravel Server Requirements](https://laravel.com/d
 
 Run the following command to clone the repository into your desired directory:
 ```bash
-git clone https://github.com/temur0212/Voting_system.git [YourDirectoryName]
+git clone https://github.com/DilshodovDilmurod/Recipe-management.git [YourDirectoryName]
 ```
 
 
